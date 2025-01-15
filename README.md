@@ -8,7 +8,7 @@ I have been learning to code for the past couple of months after stepping away f
 
 * ✉️  You can contact me at [lavin.lennon@gmail.com](mailto:lavin.lennon@gmail.com)
 * 🧠  I'm learning to code with Python
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on projects
 * ⚡  I believe virtually anyone can master a skill with good techniques and 10,000 hours of practice.
 
 ### Skills
